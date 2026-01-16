@@ -37,15 +37,6 @@ Advanced multi-language sentiment analysis project featuring text preprocessing,
 ### 📈 [Stock Market Analysis - Apple](https://github.com/sahil2003-ai/Stock-Market-Analysis---Apple)
 Financial data analysis project using real-world stock market data to identify trends, patterns, and insights for investment decision-making and portfolio optimization.
 
-### 🛒 [E-commerce Data Analysis](https://github.com/sahil2003-ai/E-commerce-data-analysis-project)
-Comprehensive e-commerce analytics project combining data cleaning, exploratory analysis, customer segmentation, and predictive modeling for business intelligence.
-
-### 📊 [Online Retail Store Analysis](https://github.com/sahil2003-ai/Online-Retail-Store-Analysis)
-Advanced retail analytics project creating visualizations around CEO and CMO requested insights, revealing customer behavior patterns, product performance, and strategic recommendations.
-
-### 👥 [Churn and Customer Risk Analysis](https://github.com/sahil2003-ai/Churn-and-Customer-Risk-Analysis)
-Machine learning project analyzing customer churn patterns and risk factors, providing actionable insights for customer retention strategies and business growth optimization.
-
 ### 👥 [HR Attrition Analysis](https://github.com/sahil2003-ai/HR-Attrition-Analysis)
 Comprehensive employee attrition analysis using advanced analytics to identify key retention drivers and recommend strategic workforce planning solutions.
 
@@ -73,39 +64,6 @@ Interactive analytics dashboard analyzing financial transactions, identifying sp
 - **Data Visualization with Power BI** - Great Learning
 - **Python Programming & MySQL Basics** - Great Learning
 - **ChatGPT for Data Analytics** - Simplilearn
-
----
-
-## 🚀 Featured Projects
-
-Here are some highlights from my data analysis and ML portfolio:
-
-### 💬 [Sentiment Analysis with NLP](https://github.com/sahil2003-ai/sentiment-analysis)
-Advanced multi-language sentiment analysis project featuring text preprocessing, translation capabilities, and transformer-based NLP models for comprehensive text classification and analysis.
-
-### 📈 [Stock Market Analysis - Apple](https://github.com/sahil2003-ai/Stock-Market-Analysis---Apple)
-Financial data analysis project using real-world stock market data to identify trends, patterns, and insights for investment decision-making and portfolio optimization.
-
-### 🛒 [E-commerce Data Analysis](https://github.com/sahil2003-ai/E-commerce-data-analysis-project)
-Comprehensive e-commerce analytics project combining data cleaning, exploratory analysis, customer segmentation, and predictive modeling for business intelligence.
-
-### 📊 [Online Retail Store Analysis](https://github.com/sahil2003-ai/Online-Retail-Store-Analysis)
-Advanced retail analytics project creating visualizations around CEO and CMO requested insights, revealing customer behavior patterns, product performance, and strategic recommendations.
-
-### 👥 [Churn and Customer Risk Analysis](https://github.com/sahil2003-ai/Churn-and-Customer-Risk-Analysis)
-Machine learning project analyzing customer churn patterns and risk factors, providing actionable insights for customer retention strategies and business growth optimization.
-
-### 👥 [HR Attrition Analysis](https://github.com/sahil2003-ai/HR-Attrition-Analysis)
-Comprehensive analysis of employee attrition factors using statistical methods to identify key drivers and recommend retention strategies.
-
-### 🛒 [Superstore Sales Performance Analysis](https://github.com/sahil2003-ai/Superstore-Sales-Performance-Analysis)
-Detailed sales performance dashboard revealing regional trends, product profitability, and customer segmentation insights.
-
-### 🚢 [Titanic Survival Predictor](https://github.com/sahil2003-ai/Titanic-Survival-Predictor)
-Machine learning model predicting passenger survival rates using Python, demonstrating feature engineering and predictive analytics skills.
-
-### 💬 [Sentiment Analysis with NLP](https://github.com/sahil2003-ai/sentiment-analysis)
-Multi-language sentiment analysis project with text preprocessing, translation, and transformer-based NLP models for comprehensive text analysis.
 
 ---
 
