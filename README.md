@@ -46,6 +46,15 @@ Advanced retail analytics project creating visualizations around CEO and CMO req
 ### 👥 [Churn and Customer Risk Analysis](https://github.com/sahil2003-ai/Churn-and-Customer-Risk-Analysis)
 Machine learning project analyzing customer churn patterns and risk factors, providing actionable insights for customer retention strategies and business growth optimization.
 
+### 👥 [HR Attrition Analysis](https://github.com/sahil2003-ai/HR-Attrition-Analysis)
+Comprehensive employee attrition analysis using advanced analytics to identify key retention drivers and recommend strategic workforce planning solutions.
+
+### 🛒 [Superstore Sales Performance Analysis](https://github.com/sahil2003-ai/Superstore-Sales-Performance-Analysis)
+Detailed sales performance analytics project revealing regional trends, product profitability, and customer segmentation insights for strategic business optimization.
+
+### 💰 [Finance Transaction Analysis Dashboard](https://github.com/sahil2003-ai/-Finance-Transaction-Analysis-Dashboard)
+Interactive analytics dashboard analyzing financial transactions, identifying spending patterns, and providing actionable insights for budget management and financial planning.
+
 ## 🎓 Education & Certifications
 
 **Bachelor's Degree in Mathematics**
