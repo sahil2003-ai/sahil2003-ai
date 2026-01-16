@@ -52,8 +52,20 @@
 
 Here are some highlights from my data analysis and ML portfolio:
 
-### 💰 [Finance Transaction Analysis Dashboard](https://github.com/sahil2003-ai/-Finance-Transaction-Analysis-Dashboard)
-Interactive Power BI dashboard analyzing financial transactions, identifying spending patterns, and providing actionable insights for budget optimization.
+### 💬 [Sentiment Analysis with NLP](https://github.com/sahil2003-ai/sentiment-analysis)
+Advanced multi-language sentiment analysis project featuring text preprocessing, translation capabilities, and transformer-based NLP models for comprehensive text classification and analysis.
+
+### 📈 [Stock Market Analysis - Apple](https://github.com/sahil2003-ai/Stock-Market-Analysis---Apple)
+Financial data analysis project using real-world stock market data to identify trends, patterns, and insights for investment decision-making and portfolio optimization.
+
+### 🛒 [E-commerce Data Analysis](https://github.com/sahil2003-ai/E-commerce-data-analysis-project)
+Comprehensive e-commerce analytics project combining data cleaning, exploratory analysis, customer segmentation, and predictive modeling for business intelligence.
+
+### 📊 [Online Retail Store Analysis](https://github.com/sahil2003-ai/Online-Retail-Store-Analysis)
+Advanced retail analytics project creating visualizations around CEO and CMO requested insights, revealing customer behavior patterns, product performance, and strategic recommendations.
+
+### 👥 [Churn and Customer Risk Analysis](https://github.com/sahil2003-ai/Churn-and-Customer-Risk-Analysis)
+Machine learning project analyzing customer churn patterns and risk factors, providing actionable insights for customer retention strategies and business growth optimization.
 
 ### 👥 [HR Attrition Analysis](https://github.com/sahil2003-ai/HR-Attrition-Analysis)
 Comprehensive analysis of employee attrition factors using statistical methods to identify key drivers and recommend retention strategies.
