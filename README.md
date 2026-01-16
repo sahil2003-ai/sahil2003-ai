@@ -20,14 +20,7 @@
 - **Deep Learning**: Exploring advanced architectures and generative AI applications
 - **Cloud Deployment**: AWS, Streamlit web applications, and cloud-based ML solutions
 
-### 🎨 Content Creation & Media
-- **Video Editing**: Expert in Alight Motion, CapCut, and professional editing techniques
-- **Motion Graphics**: Creating engaging YouTube Shorts and Instagram Reels with trending audio
-- **Graphic Design**: Logo and thumbnail design using Canva and professional design tools
-- **Content Strategy**: Multi-platform approach optimizing for viral potential and algorithmic reach
-
 ### 📱 Digital Entrepreneurship & Growth
-- **Multi-Platform Management**: Active across Instagram, YouTube, Reddit, LinkedIn with 5+ accounts
 - **Social Media Optimization**: Engagement tracking, A/B testing, and growth strategy implementation
 - **Community Building**: Strong presence in coding communities and niche content creation
 - **Portfolio Development**: Building showcase projects for client acquisition and freelance work
@@ -45,13 +38,13 @@
 
 **Professional Certifications:**
 - **Career Essentials in Data Analysis** - Microsoft LinkedIn
-- **Data Science and AI Course** - ExcelR (Ongoing)
+- **Data Science** - ExcelR
+- **Artificial Intelligence** - ExcelR 
 - **PwC Switzerland Power BI Virtual Program** - Forage
 - **Tata Data Visualization Virtual Experience** - Forage
 - **Data Visualization with Power BI** - Great Learning
 - **Python Programming & MySQL Basics** - Great Learning
 - **ChatGPT for Data Analytics** - Simplilearn
-- **AWS Cloud & AI Certifications** - In Progress
 
 ---
 
@@ -82,7 +75,7 @@ Multi-language sentiment analysis project with text preprocessing, translation, 
 - **Streamlit Web Apps**: Building interactive data science applications for real-world problems
 - **Content Channels**: Growing multiple YouTube and Instagram accounts focused on data science, gaming, and tech reviews
 - **Portfolio Projects**: Creating end-to-end solutions showcasing full-stack data science capabilities
-- **Client Services**: Offering data analysis, video editing, social media management, and design services
+- **Client Services**: Offering data analysis and data science services
 
 ---
 
@@ -98,7 +91,7 @@ Multi-language sentiment analysis project with text preprocessing, translation, 
 
 ## 🎮 Beyond Work
 
-**Passionate About:** Gaming (PS4/PS5, Legend of Zelda, God of War, Genshin Impact) | Anime Editing | Tech Reviews | Phonk Music Edits | Graphic Design | Building Digital Products
+**Passionate About:** Video Editing | Social Media Management | Graphic Design
 
 **Active On:** Instagram | YouTube | Reddit | LinkedIn | GitHub | Canva | Streamlit | Google Colab | Jupyter Notebooks
 
