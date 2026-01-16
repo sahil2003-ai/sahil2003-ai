@@ -103,7 +103,7 @@ I'm always open to discussing data analytics, machine learning, content creation
 
 - **GitHub**: [@sahil2003-ai](https://github.com/sahil2003-ai)
 - **LinkedIn**: [View Profile](https://linkedin.com/in/sahil2003-ai)
-- **Location**: Kurali, Maharashtra, India 🇮🇳
+- **Location**: Mahad, Maharashtra, India 🇮🇳
 
 ---
 
