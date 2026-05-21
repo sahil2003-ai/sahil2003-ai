@@ -1,108 +1,82 @@
-# 👋 Hello, I'm Sahil!
+# 👋 Hi, I'm Sahil Gaikwad
 
-## 📊 Data Analyst | Machine Learning Enthusiast | Content Creator | Business Intelligence Specialist
+## 🚀 Data Analyst | Data Scientist | SQL • Python • Power BI • Machine Learning
 
-**Transforming raw data into actionable insights through powerful analytics, machine learning, and compelling visual storytelling.** I'm a tech-savvy entrepreneur and aspiring data scientist actively building digital products and online personas across multiple platforms. Currently seeking opportunities to leverage my analytical expertise, AI/ML knowledge, and creative skills to drive data-informed business decisions and scale innovative solutions.
+📊 Turning raw data into actionable insights through analytics, machine learning, and business intelligence.
 
 ---
 
-## 💼 Professional Expertise
+## 🧠 About Me
 
-### 📊 Data Analysis & Business Intelligence
-- **Data Visualization**: Expert in creating impactful dashboards using Power BI and Canva
-- **Advanced Analytics**: Statistical analysis, trend identification, predictive modeling, and sentiment analysis
-- **Business Intelligence**: Dashboard creation, KPI tracking, performance reporting, and data-driven decision making
-- **Technical Skills**: Proficient in Python, SQL, Excel for comprehensive data analysis and automation
+- 🔍 Data Analyst with strong expertise in **SQL, Python, and Power BI**
+- 🤖 Built real-world ML systems for **forecasting and risk prediction**
+- 📈 Passionate about solving **business problems using data**
+- 🚀 Currently open to **Data Analyst / Data Science opportunities**
 
-### 🤖 Machine Learning & AI
-- **NLP & Sentiment Analysis**: Multi-language support with text preprocessing and transformer models
-- **Predictive Modeling**: Building end-to-end ML projects with feature engineering and model deployment
-- **Deep Learning**: Exploring advanced architectures and generative AI applications
-- **Cloud Deployment**: AWS, Streamlit web applications, and cloud-based ML solutions
+---
 
-### 📱 Digital Entrepreneurship & Growth
-- **Social Media Optimization**: Engagement tracking, A/B testing, and growth strategy implementation
-- **Community Building**: Strong presence in coding communities and niche content creation
-- **Portfolio Development**: Building showcase projects for client acquisition and freelance work
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-Data%20Science-blue)
+![SQL](https://img.shields.io/badge/PostgreSQL-Analytics-green)
+![PowerBI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
+![ML](https://img.shields.io/badge/Machine%20Learning-Model-red)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-orange)
 
 ---
 
 ## 🚀 Featured Projects
 
-Here are some highlights from my data analysis and ML portfolio:
+### 🧠 Retail AI Intelligence System 🔥
+- Analyzed **₹550M+ retail data**
+- Built ML model with **96.27% forecasting accuracy**
+- Identified **inventory imbalance (36K overstock vs 14K low stock)**
+- Developed **Power BI dashboards + Streamlit app**
 
-### 💬 [Sentiment Analysis with NLP](https://github.com/sahil2003-ai/sentiment-analysis)
-Advanced multi-language sentiment analysis project featuring text preprocessing, translation capabilities, and transformer-based NLP models for comprehensive text classification and analysis.
-
-### 📈 [Stock Market Analysis - Apple](https://github.com/sahil2003-ai/Stock-Market-Analysis---Apple)
-Financial data analysis project using real-world stock market data to identify trends, patterns, and insights for investment decision-making and portfolio optimization.
-
-### 👥 [HR Attrition Analysis](https://github.com/sahil2003-ai/HR-Attrition-Analysis)
-Comprehensive employee attrition analysis using advanced analytics to identify key retention drivers and recommend strategic workforce planning solutions.
-
-### 🛒 [Superstore Sales Performance Analysis](https://github.com/sahil2003-ai/Superstore-Sales-Performance-Analysis)
-Detailed sales performance analytics project revealing regional trends, product profitability, and customer segmentation insights for strategic business optimization.
-
-### 💰 [Finance Transaction Analysis Dashboard](https://github.com/sahil2003-ai/-Finance-Transaction-Analysis-Dashboard)
-Interactive analytics dashboard analyzing financial transactions, identifying spending patterns, and providing actionable insights for budget management and financial planning.
-
-## 🎓 Education & Certifications
-
-**Bachelor's Degree in Mathematics**
-*Core Competencies:*
-- Statistical analysis and probability theory
-- Data modeling and quantitative methods
-- Data visualization and interpretation
-- Advanced mathematical problem-solving
-
-**Professional Certifications:**
-- **Career Essentials in Data Analysis** - Microsoft LinkedIn
-- **Data Science** - ExcelR
-- **Artificial Intelligence** - ExcelR 
-- **PwC Switzerland Power BI Virtual Program** - Forage
-- **Tata Data Visualization Virtual Experience** - Forage
-- **Data Visualization with Power BI** - Great Learning
-- **Python Programming & MySQL Basics** - Great Learning
-- **ChatGPT for Data Analytics** - Simplilearn
+🔗 https://github.com/sahil2003_ai/retail-ai-intelligence-system
 
 ---
 
-## 🎯 What I'm Currently Building
+### 🚚 Supply Chain Risk Analytics ML System 🔥
+- Built ML models (Logistic Regression, XGBoost) with **~0.78 F1-score**
+- Analyzed **5000+ shipments** for disruption risks
+- Developed **Power BI dashboard + Streamlit app**
+- Identified key risk factors (weather, transport, delays)
 
-- **Advanced ML Projects**: Expanding expertise in deep learning and generative AI applications
-- **Streamlit Web Apps**: Building interactive data science applications for real-world problems
-- **Content Channels**: Growing multiple YouTube and Instagram accounts focused on data science, gaming, and tech reviews
-- **Portfolio Projects**: Creating end-to-end solutions showcasing full-stack data science capabilities
-- **Client Services**: Offering data analysis and data science services
-
----
-
-## 🔗 What I'm Looking For
-
-- **Data Science & ML Roles**: Positions combining analytics, machine learning, and business impact
-- **Content & Growth Opportunities**: Collaborations in data science education and tech content creation
-- **Freelance Projects**: Data analysis, visualization, video editing, and social media strategy
-- **Collaboration**: Cross-functional teams to deliver insights and drive data-informed decisions
-- **Learning**: Mentorship in advanced ML, Generative AI, and cloud deployment (AWS, GCP)
+🔗 https://github.com/sahil2003_ai/supply-chain-risk-analytics-ml-system
 
 ---
 
-## 🎮 Beyond Work
+### 📊 Superstore Sales Analytics
+- Analyzed **9,994 transactions**
+- Performed SQL-based KPI analysis & EDA
+- Built Power BI dashboard for business insights
 
-**Passionate About:** Video Editing | Social Media Management | Graphic Design
-
-**Active On:** Instagram | YouTube | Reddit | LinkedIn | GitHub | Canva | Streamlit | Google Colab | Jupyter Notebooks
-
----
-
-## 📫 Let's Connect!
-
-I'm always open to discussing data analytics, machine learning, content creation, collaboration opportunities, or interesting projects. Feel free to explore my repositories and reach out!
-
-- **GitHub**: [@sahil2003-ai](https://github.com/sahil2003-ai)
-- **LinkedIn**: [View Profile](https://linkedin.com/in/sahil2003-ai)
-- **Location**: Mahad, Maharashtra, India 🇮🇳
+🔗 https://github.com/YOUR_USERNAME/superstore-analysis
 
 ---
 
-*"Turning data into insights, one dashboard at a time. 💻📊✨"*
+## 📊 GitHub Stats
+
+![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahil2003-ai&show_icons=true&theme=default)
+
+---
+
+## 🎯 What I’m Focused On
+
+- 📊 Data Analytics (SQL + Power BI)
+- 🤖 Machine Learning Projects
+- 🌐 Streamlit App Development
+- 📈 Business Intelligence Solutions
+
+---
+
+## 📫 Connect With Me
+
+- 🔗 LinkedIn: [https://linkedin.com/in/YOUR_PROFILE](https://www.linkedin.com/in/sahil-gaikwad-a76b7224a/?locale=en_US)
+- 💻 GitHub: https://github.com/sahil2003-ai
+- 📧 Email: sahilgaikwad271@gmail.com
+
+---
+
+⭐ *If you like my work, consider giving a star to my repositories!*
