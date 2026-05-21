@@ -33,7 +33,7 @@
 - Identified **inventory imbalance (36K overstock vs 14K low stock)**
 - Developed **Power BI dashboards + Streamlit app**
 
-🔗 https://github.com/sahil2003_ai/retail-ai-intelligence-system
+🔗 [[https://github.com/sahil2003_ai/retail-ai-intelligence-system](https://github.com/sahil2003-ai/retail-ai-intelligence-system)
 
 ---
 
@@ -43,7 +43,7 @@
 - Developed **Power BI dashboard + Streamlit app**
 - Identified key risk factors (weather, transport, delays)
 
-🔗 https://github.com/sahil2003_ai/supply-chain-risk-analytics-ml-system
+🔗 [https://github.com/sahil2003_ai/supply-chain-risk-analytics-ml-system](https://github.com/sahil2003-ai/supply-chain-risk-analytics-ml-system)
 
 ---
 
@@ -73,7 +73,7 @@
 
 ## 📫 Connect With Me
 
-- 🔗 LinkedIn: [https://linkedin.com/in/YOUR_PROFILE](https://www.linkedin.com/in/sahil-gaikwad-a76b7224a/?locale=en_US)
+- 🔗 LinkedIn: [https://linkedin.com/in/sahil-gaikwad-a76b7224a](https://www.linkedin.com/in/sahil-gaikwad-a76b7224a/?locale=en_US)
 - 💻 GitHub: https://github.com/sahil2003-ai
 - 📧 Email: sahilgaikwad271@gmail.com
 
