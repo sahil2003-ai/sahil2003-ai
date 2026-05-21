@@ -52,13 +52,7 @@
 - Performed SQL-based KPI analysis & EDA
 - Built Power BI dashboard for business insights
 
-🔗 https://github.com/YOUR_USERNAME/superstore-analysis
-
----
-
-## 📊 GitHub Stats
-
-![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahil2003-ai&show_icons=true&theme=default)
+🔗 [https://github.com/YOUR_USERNAME/superstore-analysis](https://github.com/sahil2003-ai/Superstore-Sales-Performance-Analysis)
 
 ---
 
