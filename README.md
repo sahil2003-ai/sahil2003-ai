@@ -54,6 +54,20 @@
 
 🔗 [https://github.com/sahil2003-ai/superstore-analysis](https://github.com/sahil2003-ai/Superstore-Sales-Performance-Analysis)
 
+### 💬 NLP Sentiment Analysis
+* • Built an **NLP project** for sentiment classification
+* • Applied **text preprocessing, feature extraction, and model building**
+* • Generated insights from textual data for **positive/negative sentiment detection**
+
+🔗 [https://github.com/sahil2003-ai/sentiment-analysis](https://github.com/sahil2003-ai/sentiment-analysis)
+
+### 📈 Stock Market Analysis
+* • Performed **stock market analysis on Apple data**
+* • Analyzed price trends, movement patterns, and market behavior
+* • Used Python-based analysis to extract **financial insights and visualizations**
+
+🔗 [https://github.com/sahil2003-ai/Stock-Market-Analysis---Apple](https://github.com/sahil2003-ai/Stock-Market-Analysis---Apple)
+
 ---
 
 ## 🎯 What I’m Focused On
