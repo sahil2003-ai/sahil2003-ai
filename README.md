@@ -28,8 +28,8 @@
 ## 🚀 Featured Projects
 
 ### 🧠 Retail AI Intelligence System 🔥
-- Analyzed **₹550M+ retail data**
-- Built ML model with **96.27% forecasting accuracy**
+- Analyzed **₹550M+ retail sales data**
+- Built ML model for **demand forecasting and inventory optimization**
 - Identified **inventory imbalance (36K overstock vs 14K low stock)**
 - Developed **Power BI dashboards + Streamlit app**
 
