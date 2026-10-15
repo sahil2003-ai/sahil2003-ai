@@ -1,141 +1,52 @@
-# Sahil Gaikwad — Data Analytics & Machine Learning
+# Sahil Gaikwad
 
-> GitHub profile overview highlighting analytics, business intelligence, data science, and machine-learning portfolio projects.
+**Data Analytics · Business Intelligence · Data Science · Machine Learning**
 
-![Status](https://img.shields.io/badge/Status-Portfolio--Project-blue)
+I build portfolio projects focused on turning structured data into useful analysis, dashboards, and model-driven decision support. My repositories cover SQL business queries, Python/pandas analysis, Power BI reporting, and machine-learning workflows.
 
-## 📌 Table of Contents
+## Featured projects
 
-- [Overview](#overview)
-- [Problem Statement](#problem-statement)
-- [Objectives](#objectives)
-- [Features](#features)
-- [Dataset](#dataset)
-- [Tech Stack](#tech-stack)
-- [Project Workflow](#project-workflow)
-- [Repository Structure](#repository-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Results and Insights](#results-and-insights)
-- [Screenshots](#screenshots)
-- [Challenges and Solutions](#challenges-and-solutions)
-- [Limitations](#limitations)
-- [Future Improvements](#future-improvements)
-- [What I Learned](#what-i-learned)
-- [Author](#author)
-- [License](#license)
+### Data analytics and business intelligence
 
-## 📖 Overview
-
-GitHub profile overview highlighting analytics, business intelligence, data science, and machine-learning portfolio projects. This README documents the intended workflow and the files available in the repository. Verify all outputs against the current code and data before using them as evidence.
-
-## 🎯 Problem Statement
-
-Recruiters need a clear starting point to understand the author's skills, projects, and career focus.
-
-## 🎯 Objectives
-
-- Make featured work easy to discover.
-- Summarize tools and career focus without overstating proficiency.
-- Link visitors to project details and contact channels.
-
-## ✨ Features
-
-- Featured project links.
-- Skills grouped by analytics and ML.
-- Education and contact links.
-
-## 📂 Dataset
-
-Not applicable — this is a profile README, not a data project.
-
-- **Privacy and licensing:** Check source terms and avoid publishing personal, sensitive, or restricted data.
-- **Preprocessing:** Follow the actual SQL/notebook/report implementation; do not assume cleaning steps or row counts that have not been verified.
-
-## 🛠️ Tech Stack
-
-| Technology | Purpose |
+| Project | Evidence in the repository |
 |---|---|
-| Markdown | Profile documentation |
-| GitHub | Repository and portfolio navigation |
+| [Superstore Sales and Performance Analytics](https://github.com/sahil2003-ai/Superstore-Sales-Performance-Analysis) | 9,994 rows × 21 columns; recalculated sales of $2.297M and profit of $286.4K from the repository CSV |
+| [Finance Transaction Analysis](https://github.com/sahil2003-ai/-Finance-Transaction-Analysis-Dashboard) | 50,000 rows × 7 columns in saved notebook output; all seven columns reported with zero missing values |
+| [HR Attrition Analysis](https://github.com/sahil2003-ai/HR-Attrition-Analysis) | 1,470 rows × 35 columns in saved notebook output; Python, SQL, and Excel workflow |
+| [Pizza Sales Analysis with SQL](https://github.com/sahil2003-ai/pizza-sales-report) | Relational CSV tables and SQL views for order, product, and revenue questions; query schema/results still need validation |
+| [Instagram Reach Analysis](https://github.com/sahil2003-ai/Instagram-Reach-Analysis) | 119 posts; 678,775 total impressions in the supplied CSV; correlation analysis |
 
-## 🔄 Project Workflow
+### Data science and machine learning
 
-1. Start with the featured projects matching the role of interest.
-2. Open each project README for the problem, workflow, data, and results.
-3. Inspect linked notebooks, dashboards, or applications for implementation details.
-4. Use the contact links to connect with the author.
-
-## 🗂️ Repository Structure
-
-```text
-sahil2003-ai/
-└── README.md (profile repository)
-└── README.md
-```
-
-The list above highlights known project files and folders; inspect the repository for the complete current structure.
-
-## ⚙️ Installation
-
-### Prerequisites
-
-- Install the tools listed in the Tech Stack that apply to this project.
-- For Python projects, use a Python version compatible with the dependencies actually imported by the code.
-- For Power BI projects, use Power BI Desktop.
-
-### Setup
-
-No installation required.
-
-Do not run generic commands that do not match the files in this repository. Confirm the data paths, database dialect, and package versions before execution.
-
-## ▶️ Usage
-
-Visit https://github.com/sahil2003-ai to view the rendered profile.
-
-## 📊 Results and Insights
-
-### Key Findings
-
-This page is a portfolio index; project outcomes should be validated in their respective repositories.
-
-### Evaluation
-
-For analytics projects, reconcile key totals and document metric definitions. For ML projects, report the baseline, split strategy, relevant metrics, and held-out evaluation results. Do not include unverified scores or business impact claims.
-
-## 🖼️ Screenshots
-
-No image files were confirmed for this repository during this update. If you have screenshots, upload them into an `images/` folder, then embed each real path here with a short caption. Do not use placeholder image paths.
-
-## 🧩 Challenges and Solutions
-
-| Challenge | Solution / validation approach |
+| Project | Focus |
 |---|---|
-| Showing breadth without diluting focus | Keep featured projects aligned to entry-level analytics roles and link deeper technical work separately. |
+| [FlyRank Content Refresh Ranking](https://github.com/sahil2003-ai/flyrank-ml-intern-assignments) | Anonymized 30,000-row workflow; saved report compares a random forest with a rules baseline using Precision@50 |
+| [Supply Chain Risk Analytics](https://github.com/sahil2003-ai/supply-chain-risk-analytics-ml-system) | 5,000-row shipment dataset with 14 columns; 3,063 records are labeled as disrupted in the current raw data |
+| [Retail AI Intelligence System](https://github.com/sahil2003-ai/retail-ai-intelligence-system) | Retail sales and inventory analytics, dashboard, application, and model workflow; README documents data-quality and target-leakage limitations |
+| [Sentiment Analysis App](https://github.com/sahil2003-ai/sentiment-analysis) | Text processing, classification experiments, saved pipeline, and Streamlit application |
+| [Apple Stock Forecasting](https://github.com/sahil2003-ai/Stock-Market-Analysis---Apple) | 2,011 daily observations from 2012–2019 and a forecasting app; robust holdout performance still needs verification |
+| [Titanic Survival Predictor](https://github.com/sahil2003-ai/Titanic-Survival-Predictor) | 891 labeled training rows; saved notebook metrics are in-sample and not presented as held-out performance |
+| [Trader Performance vs Market Sentiment](https://github.com/sahil2003-ai/Trader_Performance_vs_Market_Sentiment_Analysis) | Sentiment-grouped daily trading summaries with an unresolved row-count inconsistency noted in the README |
 
-## ⚠️ Limitations
+## Tools represented in my repositories
 
-- A skills list is not proof of advanced proficiency; inspect each project for evidence.
-- Project metrics should be validated in their own repositories.
+- **Analytics:** SQL, joins, aggregations, window functions, pandas, NumPy, Excel.
+- **Visualization:** Power BI, Plotly, Matplotlib, Seaborn.
+- **Machine learning:** scikit-learn, model evaluation, feature engineering, XGBoost/transformers where used.
+- **Apps and workflow:** Streamlit, Jupyter Notebook, Git/GitHub.
 
-## 🚀 Future Improvements
+These reflect tools used in specific project files; not every tool appears in every project.
 
-- [ ] Keep the featured projects current.
-- [ ] Add only verified project results and screenshots.
-- [ ] Tailor featured order as target roles change.
+## How to explore my work
 
-## 📚 What I Learned
+1. Start with the project most relevant to your role.
+2. Review its README for the data, workflow, metrics, and limitations.
+3. Inspect the source files or notebooks for calculation details.
+4. Prefer independently reproducible metrics over unsupported performance claims.
 
-- Portfolio storytelling and project navigation.
-
-## 👤 Author
-
-**Sahil Gaikwad**
+## Connect
 
 - GitHub: [sahil2003-ai](https://github.com/sahil2003-ai)
 - LinkedIn: [Sahil Gaikwad](https://www.linkedin.com/in/sahil-gaikwad-a76b7224a/)
 
-## 📄 License
-
-Not applicable to profile content; project licenses are defined in their own repositories.
+I welcome entry-level opportunities in data analytics, business intelligence, data science, and machine learning where I can contribute through careful analysis, reproducible workflows, and clear communication.
