@@ -1,90 +1,94 @@
-# 👋 Hi, I'm Sahil Gaikwad
+# Hi, I'm Sahil Gaikwad 👋
 
-## 🚀 Data Analyst | Data Scientist | SQL • Python • Power BI • Machine Learning
+**Aspiring Data Analyst | Data Science & Machine Learning**  
+I use SQL, Python, and Power BI to turn data into useful business insights, and I build machine-learning projects focused on forecasting, risk analysis, and text analytics.
 
-📊 Turning raw data into actionable insights through analytics, machine learning, and business intelligence.
-
----
-
-## 🧠 About Me
-
-- 🔍 Data Analyst with strong expertise in **SQL, Python, and Power BI**
-- 🤖 Built real-world ML systems for **forecasting and risk prediction**
-- 📈 Passionate about solving **business problems using data**
-- 🚀 Currently open to **Data Analyst / Data Science opportunities**
+[![GitHub](https://img.shields.io/badge/GitHub-sahil2003--ai-181717?logo=github)](https://github.com/sahil2003-ai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://www.linkedin.com/in/sahil-gaikwad-a76b7224a/)
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
 
-![Python](https://img.shields.io/badge/Python-Data%20Science-blue)
-![SQL](https://img.shields.io/badge/PostgreSQL-Analytics-green)
-![PowerBI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
-![ML](https://img.shields.io/badge/Machine%20Learning-Model-red)
-![Streamlit](https://img.shields.io/badge/Streamlit-App-orange)
+- 🎓 B.Sc. in Mathematics, University of Mumbai
+- 📊 Interested in data analytics, business intelligence, and evidence-based decision-making
+- 🧠 Building projects in machine learning, forecasting, risk analysis, and NLP
+- 🛠️ Enjoy turning business questions into SQL analysis, Python workflows, dashboards, and interactive applications
+- 🎯 Currently seeking entry-level opportunities in **Data Analytics, Business Intelligence, and Data Science**
 
----
+## Skills & Tools
 
-## 🚀 Featured Projects
+**Analytics:** SQL, PostgreSQL, Excel, Power BI, KPI reporting, exploratory data analysis  
+**Python & Data:** Python, pandas, NumPy, Matplotlib, Seaborn  
+**Machine Learning:** scikit-learn, XGBoost, classification, regression, feature engineering, model evaluation  
+**NLP & Apps:** text preprocessing, TF-IDF, Hugging Face Transformers, Streamlit, Plotly  
+**Workflow:** Jupyter Notebook, Git, GitHub
 
-### 🧠 Retail AI Intelligence System 🔥
-- Analyzed **₹550M+ retail sales data**
-- Built ML model for **demand forecasting and inventory optimization**
-- Identified **inventory imbalance (36K overstock vs 14K low stock)**
-- Developed **Power BI dashboards + Streamlit app**
-
-🔗 [[https://github.com/sahil2003_ai/retail-ai-intelligence-system](https://github.com/sahil2003-ai/retail-ai-intelligence-system)
+*This list reflects technologies used or documented in my projects; proficiency varies by tool and project.*
 
 ---
 
-### 🚚 Supply Chain Risk Analytics ML System 🔥
-- Built ML models (Logistic Regression, XGBoost) with **~0.78 F1-score**
-- Analyzed **5000+ shipments** for disruption risks
-- Developed **Power BI dashboard + Streamlit app**
-- Identified key risk factors (weather, transport, delays)
+## Featured Projects
 
-🔗 [https://github.com/sahil2003_ai/supply-chain-risk-analytics-ml-system](https://github.com/sahil2003-ai/supply-chain-risk-analytics-ml-system)
+### 🛍️ Retail AI Intelligence System
+An end-to-end retail analytics project exploring sales, demand forecasting, and inventory risk.
 
----
+- Analyzes retail sales and inventory patterns using SQL and Python
+- Compares machine-learning approaches for demand forecasting and risk classification
+- Combines analysis with Power BI dashboards and a Streamlit app
 
-### 📊 Superstore Sales Analytics
-- Analyzed **9,994 transactions**
-- Performed SQL-based KPI analysis & EDA
-- Built Power BI dashboard for business insights
+[View project →](https://github.com/sahil2003-ai/retail-ai-intelligence-system)
 
-🔗 [https://github.com/sahil2003-ai/superstore-analysis](https://github.com/sahil2003-ai/Superstore-Sales-Performance-Analysis)
+### 🚚 Supply Chain Risk Analytics & Prediction
+A shipment-risk project combining analytics, dashboards, and predictive modelling.
 
-### 💬 NLP Sentiment Analysis
-* Built an **NLP project** for sentiment classification
-* Applied **text preprocessing, feature extraction, and model building**
-* Generated insights from textual data for **positive/negative sentiment detection**
+- Explores shipment disruption patterns and operational risk factors
+- Compares Logistic Regression, Random Forest, and XGBoost models
+- Documents a PostgreSQL, Python, Power BI, and Streamlit workflow
 
-🔗 [https://github.com/sahil2003-ai/sentiment-analysis](https://github.com/sahil2003-ai/sentiment-analysis)
+[View project →](https://github.com/sahil2003-ai/supply-chain-risk-analytics-ml-system)
 
-### 📈 Stock Market Analysis
-* Performed **stock market analysis on Apple data**
-* Analyzed price trends, movement patterns, and market behavior
-* Used Python-based analysis to extract **financial insights and visualizations**
+### 📈 Superstore Sales & Performance Analysis
+A business intelligence project focused on retail performance.
 
-🔗 [https://github.com/sahil2003-ai/Stock-Market-Analysis---Apple](https://github.com/sahil2003-ai/Stock-Market-Analysis---Apple)
+- Analyzes sales, profitability, customer segments, and discount patterns
+- Uses SQL and Python for exploration and KPI analysis
+- Presents business insights through Power BI dashboards
 
----
+[View project →](https://github.com/sahil2003-ai/Superstore-Sales-Performance-Analysis)
 
-## 🎯 What I’m Focused On
+### 💬 Sentiment Analysis
+A text-classification project that explores sentiment in written reviews.
 
-- 📊 Data Analytics (SQL + Power BI)
-- 🤖 Machine Learning Projects
-- 🌐 Streamlit App Development
-- 📈 Business Intelligence Solutions
+- Applies text cleaning, tokenization, and TF-IDF feature extraction
+- Experiments with multiple machine-learning models and model evaluation
+- Provides an interactive Streamlit demo
 
----
+[Repository](https://github.com/sahil2003-ai/sentiment-analysis) · [Live demo](https://sentiment-analysis-s3chle3ar9fjixe4f6mzyk.streamlit.app/)
 
-## 📫 Connect With Me
+### 🧭 Explore More Projects
 
-- 🔗 LinkedIn: [https://linkedin.com/in/sahil-gaikwad-a76b7224a](https://www.linkedin.com/in/sahil-gaikwad-a76b7224a/?locale=en_US)
-- 💻 GitHub: https://github.com/sahil2003-ai
-- 📧 Email: sahilgaikwad271@gmail.com
+- [HR Attrition Analysis](https://github.com/sahil2003-ai/HR-Attrition-Analysis)
+- [Finance Transaction Analysis Dashboard](https://github.com/sahil2003-ai/-Finance-Transaction-Analysis-Dashboard)
+- [Titanic Survival Predictor](https://github.com/sahil2003-ai/Titanic-Survival-Predictor)
+- [Comparative Analysis of Transformer Models](https://github.com/sahil2003-ai/Comparative-Analysis-of-Transformer-Models-for-NLP-Tasks)
+- [All repositories](https://github.com/sahil2003-ai?tab=repositories)
 
 ---
 
-⭐ *If you like my work, consider giving a star to my repositories!*
+## Currently Focused On
+
+- Strengthening SQL, Power BI, Excel, and business analysis
+- Improving machine-learning evaluation and reproducible workflows
+- Building clear, well-documented portfolio projects
+- Practising how to explain technical work and business impact
+
+## Connect
+
+- **LinkedIn:** [sahil-gaikwad](https://www.linkedin.com/in/sahil-gaikwad-a76b7224a/)
+- **GitHub:** [@sahil2003-ai](https://github.com/sahil2003-ai)
+- **Email:** [sahilgaikwad271@gmail.com](mailto:sahilgaikwad271@gmail.com)
+
+---
+
+⭐ Thanks for visiting my profile. Feel free to explore my repositories and share feedback.
